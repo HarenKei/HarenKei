@@ -1,5 +1,13 @@
 ![Alt text](/profile_header.png)
 
+Solved.ac Level
+=======
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ceounjc)](https://solved.ac/ceounjc)
+
+GitHub Stats
+=======
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenKei&show_icons=true&theme=merko)
 
 <!--
 **HarenKei/HarenKei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
