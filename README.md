@@ -1,6 +1,5 @@
 ![Alt text](/profile_header.png)
 
-![github 통계]( https://github-readme-stats.vercel.app/HarenKei&show_icons=true&theme=radical)
 
 <!--
 **HarenKei/HarenKei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
