@@ -45,7 +45,7 @@
 
 ## 💻 Projects
 **1.**<a href='https://github.com/univ-parking/UnivParking'>**딥러닝을 활용한 주차장 혼잡 분석 및 주차 지원 서비스 - 주차 대학교, 차대**</a> **(2023.11 - 🥈은상)**
-> 주차장 혼잡도 시각화를 위한 Front-End 개발
+> 주차장 혼잡도 시각화를 위한 Front-End 개발 <br/>
 > 2023 디지텍 캡스톤 경연대회 출품 / 수상작 (은상)
 
 **2.**<a href='https://github.com/popping-official'>**팝업스토어의 온라인화 - 팝업은 현재 진행중! 팝핑**</a> **(2024.08 ~ 2024.09 - 사이드임팩트 1차통과)**
@@ -58,8 +58,8 @@
 > 웹 퍼블리싱, API 연동을 비롯한 Front-End 개발 외주 수주
 
 **5.** <a href='https://github.com/HarenKei/SeoulHealing'>**Seoul에서 Soul을 힐링하다 : Soul Rest**</a>  **(2019. 08 ~ 2019. 11 - 🏆 장려상 수상)**
-> 기획, Adobe Xd를 활용한 UI / UX 설계 및 리소스 디자인
-> 2019 스마트서울 모바일 앱 공모전 출품 / 수상작 (장려상)
+> 기획, Adobe Xd를 활용한 UI / UX 설계 및 리소스 디자인 <br/>
+> 2019 스마트서울 모바일 앱 공모전 출품 / 수상작 (장려상) <br/>
 > > - 219팀 중 11위로 장려상 수상
 
 
